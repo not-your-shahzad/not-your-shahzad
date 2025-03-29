@@ -1,6 +1,5 @@
 # 💫 About Me:
-Shahzad Hussain<br><br>Unity Game Developer | Multiplayer & AI Enthusiast<br><br>Passionate game developer with expertise in FPS, MOBA, and AI-driven games. Experienced in Unity, C#, Photon Networking, and Game AI.<br><br>Full-time Unity Game Developer<br><br>Developing multiplayer FPS games & AI-driven game mechanics<br><br>Collaborations in game development & AI-powered gaming projects<br><br>Hobbies: Gaming 🎮, AI & Machine Learning 🤖, 3D Modeling 🏗️
-
+My name is Shahzad Hussain, and I am a Unity Game Developer with experience in developing 2D and 3D games. I specialize in multiplayer game development, AI-powered gameplay mechanics, and game optimization. My expertise includes Unity, C#, Photon Networking, and game design. Currently, I am focused on creating fast-paced FPS and MOBA games for mobile and PC. I am passionate about bringing innovative gaming experiences to life and always eager to learn and collaborate on exciting projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shahzadhussain49) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahzadhussain74303@gmail.com) 
