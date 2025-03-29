@@ -1,50 +1,22 @@
-# 🎮 Shahzad Hussain - Game Development Portfolio
+# 💫 About Me:
+Shahzad Hussain<br><br>Unity Game Developer | Multiplayer & AI Enthusiast<br><br>Passionate game developer with expertise in FPS, MOBA, and AI-driven games. Experienced in Unity, C#, Photon Networking, and Game AI.<br><br>Full-time Unity Game Developer<br><br>Developing multiplayer FPS games & AI-driven game mechanics<br><br>Collaborations in game development & AI-powered gaming projects<br><br>Hobbies: Gaming 🎮, AI & Machine Learning 🤖, 3D Modeling 🏗️
 
-![Shahzad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=not-your-shahzad&show_icons=true&theme=dark)
 
-## 👋 Welcome to My Game Development Portfolio!
-I am a **Unity Game Developer** with international certifications and experience in developing **2D & 3D games**. My expertise includes **Unity, C#, Photon Networking, Blender, Maya, Adobe Photoshop, and Audacity**.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shahzadhussain49) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahzadhussain74303@gmail.com) 
 
----
-## 📂 Featured Projects
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=not-your-shahzad&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=not-your-shahzad&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=not-your-shahzad&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### **1️⃣ FlagFront** *(MOBA-FPS Hybrid)*
-🔹 Multiplayer Online Battle Arena (MOBA) combined with FPS for mobile.  
-🔹 Features fast-paced, team-based battles with unique abilities and weapons.
-🔹 Built using **Unity Engine, Photon Networking, and C#**.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=not-your-shahzad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![FlagFront](https://github-readme-stats.vercel.app/api/pin/?username=not-your-shahzad&repo=FlagFront&theme=dark)](https://github.com/not-your-shahzad/FlagFront)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
-### **2️⃣ Flappy Bird Clone** *(Casual Mobile Game)*
-🔹 A custom-made **Flappy Bird** clone with enhanced mechanics and animations.
-🔹 Features leaderboard, dynamic obstacles, and smooth physics.
-
-[![Flappy Bird Clone](https://github-readme-stats.vercel.app/api/pin/?username=not-your-shahzad&repo=FlappyBirdClone&theme=dark)](https://github.com/not-your-shahzad/FlappyBirdClone)
-
----
-
-### **3️⃣ AI-Powered Chest X-Ray Analysis** *(Medical AI Project)*
-🔹 Developed machine learning models for lung region detection.
-🔹 Used **Random Forest, KNN, CNN, and Decision Tree models**.
-🔹 Built in **Python, Google Colab, and OpenCV**.
-
-[![Chest X-Ray AI](https://github-readme-stats.vercel.app/api/pin/?username=not-your-shahzad&repo=ChestXRayAI&theme=dark)](https://github.com/not-your-shahzad/ChestXRayAI)
-
----
-## 🛠️ Technologies & Tools
-- **Game Engines:** Unity, Unreal Engine
-- **Programming:** C#, Python, JavaScript
-- **Networking:** Photon, Mirror
-- **3D Modeling:** Blender, Maya
-- **Audio Editing:** Audacity
-
----
-## 📫 Contact Me
-📧 Email: shahzadhussain74303@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/shahzad](https://www.linkedin.com/in/shahzad)  
-🐦 Twitter: [twitter.com/shahzad_dev](https://twitter.com/shahzad_dev)  
-🌍 Portfolio Website: [shahzadgames.com](https://shahzadgames.com)  
-
-**🚀 Let's Build Amazing Games Together!**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
